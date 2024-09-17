@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kaelo, an <a href="https://www.linkedin.com/in/kaelo-sekai">IT Professional</a></h1>
+<h1>Hi, I'm Kaelo Patrick, an <a href="https://www.linkedin.com/in/kaelo-sekai">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
