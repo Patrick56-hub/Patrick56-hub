@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Patrick56-hub/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Microsoft Azure Virtual Machines](https://github.com/Patrick56-hub/configure-active-directory)
-  -Account Management in Active Directory
+  - Managing the Accounts in Active Directory
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Patrick56-hub/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
