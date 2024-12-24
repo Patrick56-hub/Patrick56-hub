@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Patrick56-hub/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Configuring Active Directory within Microsoft Azure Virtual Machines](https://github.com/Patrick56-hub/configure-active-directory)
-
+  - [Managing Accounts in Active Directory](https://github.com/Patrick56-hub/managing-accounts)
 
 <h2>🤳Connect with me:</h2>
 
